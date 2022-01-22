@@ -7,8 +7,7 @@
 Overstock is a web application to enable consumers to purchase Furniture.
 
 ## Go to project directory:-
-https://github.com/sumit-krk/Overstock-Clone
-
+https://github.com/paulsantosh263/Overstock
 ## deployment Link:-
 https://overstock.vercel.app/
 
@@ -74,4 +73,5 @@ Clone the project into local. Go into the project folder and click on index.html
 
 ![Logo](https://github.com/sumit-krk/name/blob/master/overstock/Capture_10.PNG?raw=true)
 
-
+For more details:
+https://github.com/paulsantosh263
